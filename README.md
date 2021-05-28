@@ -1,2 +1,2 @@
 # Personal-voice-assistant
-personal voice assistant with integration with YOLOv3 to obey commands from the user to find the location of objects/things.
+Our main aim is to develop a personal voice assistant which helps elder people to locate their necessary belongings in a confined area and they can interact with this voice assistant to open a website, to know time and weather. Primarily this voice assistant is focused on image detection, for this, we are using the Yolov3 model for detecting objects and it specifies the position of the intended object which is meant to be located by the user. Firstly the voice input is taken from the user and after processing the image and as the last step the audio is given as output, specifies the position of an object of interest
